@@ -8,4 +8,5 @@
 
 ##leetcode 21天刷题计划官方群：
 
-![Uploading 3791646380737_.pic.jpg…]()
+![](./QR.jpg)
+
