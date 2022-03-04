@@ -1,4 +1,4 @@
-# leetcode-21-
+# leetcode-21days-plan
 **这个项目希望参与者能够完成为期21天的leetcode刷题计划**
 
 ## 每个参与者建立一个以自己名字命名的文件夹，每天将自己的任务更新到自己的文件夹下，并pull request。
